@@ -37,13 +37,6 @@ Full-Stack Developer with expertise in building scalable applications and levera
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiruyohesshwarran&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'Thiruyohesshwarran' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiruyohesshwarran&layout=compact&langs_count=10&theme=buefy"/>
-</div>
-
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'Thiruyohesshwarran' with your actual GitHub username in the URL below -->
