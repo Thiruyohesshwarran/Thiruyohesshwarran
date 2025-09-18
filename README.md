@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Thiruyohesshwarran K
 
-<!--
-**Thiruyohesshwarran/Thiruyohesshwarran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
+Full-Stack Developer with expertise in building scalable applications and leveraging cloud technologies.**
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing an internship at Rampex Technologies, gaining hands-on experience in full-stack development and cloud solutions.
+
+---
+⭐️ From [Thiruyohesshwarran K](https://github.com/)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+</div>
